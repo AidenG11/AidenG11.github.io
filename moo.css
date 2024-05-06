@@ -1,0 +1,75 @@
+h1 {
+    text-align: center;
+    padding: 5px;
+    background-color: wheat;
+}
+
+h2 {
+    text-align: center;
+    padding: 5px;
+    background-color: wheat;
+}
+
+#content {
+    text-align: center;
+    background-color: antiquewhite;
+    margin: auto;
+    border: 1px solid black;
+    box-shadow: 5px 5px 1px black;
+    margin: 20px;
+}
+
+body {
+    background-color: bisque;
+}
+
+#bigContainer {
+    text-align: center;
+    background-color: antiquewhite;
+    justify-content: space-evenly;
+}
+
+#smallContainer {
+    text-align: center;
+
+}
+
+#bigBox {
+    text-align: center;
+
+}
+
+#smallBox {
+    margin: 10px;
+    padding: 4px;
+    text-align: center;
+    background-color: antiquewhite;
+    margin: auto;
+    border: 1px solid black;
+    box-shadow: 5px 5px 1px black;
+    margin: 30px;
+}
+
+#links {
+    text-align: center;
+    background-color: antiquewhite;
+    margin: auto;
+    border: 1px solid black;
+    box-shadow: 5px 5px 1px black;
+    margin: 20px;
+    text-align: center;
+    padding: 5px;
+    background-color: wheat;
+}
+
+#listItems {
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+}
+
+#return {
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+}
